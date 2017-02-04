@@ -8,8 +8,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/influxdata/telegraf"
-	"github.com/influxdata/telegraf/plugins/outputs"
+	"github.com/influxdata/telegraf-registry"
+	"github.com/influxdata/telegraf-registry/outputs"
 	"github.com/influxdata/telegraf/plugins/serializers"
 )
 

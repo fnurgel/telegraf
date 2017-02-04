@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/amir/raidman"
-	"github.com/influxdata/telegraf"
+	"github.com/influxdata/telegraf-registry"
 	"github.com/influxdata/telegraf/metric"
 	"github.com/influxdata/telegraf/testutil"
 	"github.com/stretchr/testify/require"

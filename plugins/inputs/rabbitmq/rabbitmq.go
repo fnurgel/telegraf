@@ -8,10 +8,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/influxdata/telegraf"
+	"github.com/influxdata/telegraf-registry"
+	"github.com/influxdata/telegraf-registry/inputs"
 	"github.com/influxdata/telegraf/internal"
 	"github.com/influxdata/telegraf/internal/errchan"
-	"github.com/influxdata/telegraf/plugins/inputs"
 )
 
 // DefaultUsername will set a default value that corrasponds to the default

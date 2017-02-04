@@ -10,9 +10,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/influxdata/telegraf"
+	"github.com/influxdata/telegraf-registry"
+	"github.com/influxdata/telegraf-registry/inputs"
 	"github.com/influxdata/telegraf/internal"
-	"github.com/influxdata/telegraf/plugins/inputs"
 )
 
 const oid = ".1.3.6.1.4.1.35450"

@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/influxdata/telegraf"
+	"github.com/influxdata/telegraf-registry"
 	"github.com/influxdata/telegraf/plugins/parsers"
 
 	"github.com/influxdata/telegraf/testutil"

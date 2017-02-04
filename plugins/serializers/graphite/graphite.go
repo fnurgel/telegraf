@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/influxdata/telegraf"
+	"github.com/influxdata/telegraf-registry"
 )
 
 const DEFAULT_TEMPLATE = "host.tags.measurement.field"

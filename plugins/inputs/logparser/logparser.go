@@ -8,10 +8,10 @@ import (
 
 	"github.com/hpcloud/tail"
 
-	"github.com/influxdata/telegraf"
+	"github.com/influxdata/telegraf-registry"
+	"github.com/influxdata/telegraf-registry/inputs"
 	"github.com/influxdata/telegraf/internal/errchan"
 	"github.com/influxdata/telegraf/internal/globpath"
-	"github.com/influxdata/telegraf/plugins/inputs"
 
 	// Parsers
 	"github.com/influxdata/telegraf/plugins/inputs/logparser/grok"

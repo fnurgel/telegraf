@@ -1,7 +1,7 @@
 package serializers
 
 import (
-	"github.com/influxdata/telegraf"
+	"github.com/influxdata/telegraf-registry"
 
 	"github.com/influxdata/telegraf/plugins/serializers/graphite"
 	"github.com/influxdata/telegraf/plugins/serializers/influx"

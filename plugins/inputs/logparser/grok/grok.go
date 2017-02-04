@@ -12,7 +12,7 @@ import (
 
 	"github.com/vjeantet/grok"
 
-	"github.com/influxdata/telegraf"
+	"github.com/influxdata/telegraf-registry"
 	"github.com/influxdata/telegraf/metric"
 )
 

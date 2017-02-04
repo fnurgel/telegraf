@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/influxdata/telegraf"
+	"github.com/influxdata/telegraf-registry"
 )
 
 // vars for making sure that the compiler doesnt optimize out the benchmarks:

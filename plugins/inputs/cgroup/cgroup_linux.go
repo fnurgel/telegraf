@@ -11,7 +11,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/influxdata/telegraf"
+	"github.com/influxdata/telegraf-registry"
 )
 
 const metricName = "cgroup"

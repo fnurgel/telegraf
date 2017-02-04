@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/influxdata/telegraf"
+	"github.com/influxdata/telegraf-registry"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 )

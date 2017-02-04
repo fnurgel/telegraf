@@ -9,9 +9,9 @@ import (
 	"net/url"
 	"sort"
 
-	"github.com/influxdata/telegraf"
+	"github.com/influxdata/telegraf-registry"
+	"github.com/influxdata/telegraf-registry/outputs"
 	"github.com/influxdata/telegraf/internal"
-	"github.com/influxdata/telegraf/plugins/outputs"
 )
 
 type Datadog struct {
